@@ -1,0 +1,17 @@
+h1 {
+    color: lightcoral;
+    font-weight: 200;
+}
+img {
+    width: 100px;
+}
+ul> .skill{
+    color: blue;
+    font-style: oblique;
+}
+body .skill{
+    background-color: azure;
+}
+#python{
+    color: darkred;
+}
